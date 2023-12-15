@@ -21,3 +21,17 @@ p{
 } */
 
 /* LIMITING HIGHT */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+
+    h2 {
+        color: #0088dd;
+        border-bottom: 1px solid #0088dd;}
+
+        p{
+            max-height: 250px;
+            border: 1px solid red;
+        } */
+        
