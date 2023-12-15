@@ -34,4 +34,121 @@ p{
             max-height: 250px;
             border: 1px solid red;
         } */
+
+        /* OVERFLOW */
         
+        /* p{
+            max-height: 50px;
+            border: 1px solid red;
+         overflow : scroll;} */
+
+
+         /* BORDER WIDTH */
+
+         /* one by one */
+         /* p{
+            border: top width 1px; 
+            border: right width 2px;
+            border: bottom width px;
+            border: left width 4px;
+         } */
+         /* shorthand */
+         /* p{ 
+            border-style: solid;
+              border-width: 1px 2px 3px 4px ; clockwise->top right bottom left 
+         } */
+          
+         /* BORDER STYLE */
+         /* solid, dashed, dotted, double, groove, inset, outset, ridge, */
+         /* p{
+            border-style: groove;
+         } */
+
+         /* BORDER COLOR */
+         /* border-top-color
+border-right-color
+border-bottom-color
+border-left-color */
+         /* p{ border-style: dashed;
+            border-color: red;
+         } */
+
+         /* BORDER SHORTHAND */
+   /* p{
+    border: 2px solid red;
+   } */
+
+   /* PADDING */
+   /* p{
+    border: 2px red;
+    
+   } */
+
+   /* MARGIN */
+   /* p{
+    border: 2px solid red;
+   }
+
+   #p2{
+    margin-top: 200px;
+   } */
+
+   /* CENTERING CONTENT */
+
+   /* p{
+    border: 2px solid red;
+    width: 300px;
+    padding: 50px;
+   }
+
+   p.example {
+    margin-left: auto;
+    margin-right: auto;} */
+
+    /* CHANGE INLINE BLOCK */
+    /* li{
+        display: inline;
+        margin-right: 10px;
+    }
+
+    li.coming-soon {
+        display: none;} */
+
+        /* HIDING BOXES */
+        /* li{
+            display: inline;
+            margin-right: 10px;
+        }
+    
+        li.coming-soon {
+            visibility: visible;} */
+            /* BORDER IMAGES */
+            /* one.{
+                border: 10px solid transparent;
+                padding: 10px;
+                border-image: url(./imag/img..jpeg);
+            } */
+
+
+            /* BOX SHADOW */
+
+           /* .one{
+            width: 200px;
+             box-shadow: 0 0 10px red;} */
+
+             /* ROUNDED CORNERS */
+
+             /* body{
+                background-color: black;
+             }
+             p{
+                background-color: white;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+            } */
+
+            img{
+                width: 200px;
+                height: 200px;
+            }
